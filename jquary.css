@@ -1,0 +1,12 @@
+.star {
+    cursor: pointer;
+    font-size: 170px;
+  }
+  
+  .star:hover,
+  .star.active {
+    color: orange;
+  }
+  .rating{
+    text-align: center;
+  }
